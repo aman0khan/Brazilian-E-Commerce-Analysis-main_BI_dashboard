@@ -66,21 +66,17 @@ You can access the dataset [here](https://drive.google.com/file/d/1-Fv55pggi0fMR
 - Join is must in this project, You have to join atlest 4 or 5 datasets together.
 ## License
 
-This project is licensed under the [Durgesh Kumar](https://github.com/durgeshanalyst).
+This project is licensed under the [Aman Khan]((https://github.com/aman0khan)).
 
 ## Resources
 - SQL Query
 - Power BI
 - Excel Power Query
 
-## Contributors
-- Durgesh Kumar [Durgesh kumar](https://github.com/durgeshanalyst)
-- Kartikeya Baijal [Kartikey baijal](https://github.com/kartikeya101)
 ## Contact
 
-- Email: [Email me](mailto:your.email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/durgeshanalyst/)
-- GitHub: [GitHub Profile](https://github.com/durgeshanalyst)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aman-khan007/)
+- GitHub: [GitHub Profile]((https://github.com/aman0khan))
 
 Feel free to reach out if you have any questions or need further information.
 
